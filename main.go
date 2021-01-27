@@ -19,4 +19,6 @@ func main() {
 	//fmt.Println("111hello git!")
 
 	fmt.Println("test")
+	fmt.Println("test2")
+
 }
