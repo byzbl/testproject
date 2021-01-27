@@ -17,4 +17,6 @@ func main() {
 	//field := st.Field(0)
 	fmt.Println(field.Tag.Get("color"), field.Tag.Get("species"))
 	//fmt.Println("111hello git!")
+
+	fmt.Println("test")
 }
